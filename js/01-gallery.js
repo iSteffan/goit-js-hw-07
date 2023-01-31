@@ -35,6 +35,5 @@ galleryRef.addEventListener('click', event => {
     if (evt.code === 'Escape') {
       instance.close();
     }
-    console.log(evt);
   });
 });
